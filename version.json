@@ -1,4 +1,5 @@
 {
- "version": "0.02",
- "download": "https://notturnomane.github.io/lattinaa-update/lattina.py"
+  "version": "0.05",
+  "download_url": "https://github.com/notturnomane/lattinaa-update/archive/refs/heads/main.zip",
+  "notes": "aggiunto reset memoria breve"
 }
