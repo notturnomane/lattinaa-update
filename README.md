@@ -45,7 +45,7 @@ Oppure il file eseguibile se presente.
 Lattinaa/
 │
 ├── installer.exe
-├── main.py
+├── lattina.py
 ├── version.py
 ├── updater.py
 │
